@@ -64,7 +64,9 @@ streamlit run app.py
 
 The application will open in your browser.
 
-User Interface
+## User Interface
+
+![NER Application UI](ui.png)
 
 ## Example
 
